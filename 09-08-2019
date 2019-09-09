@@ -1,0 +1,10 @@
+Watched youtube videos:
+      https://www.youtube.com/watch?v=H2rTecSO0gk
+      https://www.youtube.com/watch?v=niK37hywixg
+Learned:
+      How to properly install Raspberry Pi, configure it.
+      Install Rapbian OS into Raspberry pi.
+      How to connect them in cluster.
+      How to use ssh to connect to the Raspberry pi from your computer.
+      Learned about Fabric command so that we can send batch commands to all the Raspberry pi's at the same time.
+      How to configure IP addressesof the Raspberry pi in a cluster.
