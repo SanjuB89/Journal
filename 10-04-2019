@@ -1,0 +1,3 @@
+Created ssh keys on each raspberry pis(i.e. Server1, Server2, Server3) and copied the keys to Server1 for easy access.
+Installed updated MPICH into each raspberry pi for the combined processing unit. 
+Tested the networking between the raspberry pis. 
