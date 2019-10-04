@@ -1,0 +1,4 @@
+Installed OS Raspbian Buster on each Raspberry pi's individually by taking apart the cluster.
+Assigned a static ip address to each of the Raspberry pis and assigned a static naming server and a gateway 
+    so that its clients can always find it using the same ip address.
+
