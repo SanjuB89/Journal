@@ -1,0 +1,3 @@
+Installed MPICH into each raspberry pi's
+generated ssh key on each Server2 and Server3 (Raspberry Pis) and copied to the Server1(Raspberry Pi) so it can talk to them easily
+created a machine file and listed all the addresses of the Raspberry Pis for the execution purposes.
