@@ -1,0 +1,15 @@
+Progress Report 3
+
+	What have you done personally in two weeks leading up to today?
+1.	I have been communicating with Dr. Chen to discuss some more requirements for this project, which we overlooked like DNS server. If we spin a webserver, DNS server is the must for the nomenclature of the IP addresses.
+2.	I am planning to install bind to use one of my rasp pi as a DNS server.
+3.	I have planned multiple meetings with my classmates to evaluate where we are at and where do we go from there. Also planned a meeting with DR. Chen as a whole team to stay in track
+4.	I have spun a webserver with the forwarding port 8000 using node.js, and the website will be soon be deployed as soon as I fix the DNS issue.
+
+Describe any significant progress made by the team as a whole in this period.
+1.	We have learned a lot about parallel programming. 
+2.	Website home page is ready, and is approved by Dr. Chen.
+3.	All three raspberry Pis are ready to work together under a single line of command using MPI feature.
+
+Give a link to journal file in your repository
+https://github.com/SanjuB89/Journal
