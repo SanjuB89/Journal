@@ -1,0 +1,3 @@
+Finally started my first compilation and execution of MPI program.
+Geany is used as a debugger to write MPI programs in C language.
+Learned about communicators and how to talk to each nodes using MPI functions.
