@@ -1,0 +1,4 @@
+Learned about Virtual Privagte Networks(VPN)
+Learned how VPN works on a two way authentication of a pre-generated certificate creating a tunnel between two end users.
+Replacing Remote desktop with VPN because in Remote Desktop you actually have to type in the ip address and the port number to connect to the server.
+Using VPN we can log in with a traditional username and password to work on our server from anywhere in the world.
