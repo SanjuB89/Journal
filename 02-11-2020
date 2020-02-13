@@ -1,0 +1,12 @@
+Virtual Private Network (VPN) was succesfully installed and tested.
+Idea is to create safe and encrypted connection from anywhere in the world to your home network
+You can have devices connected to each other and control it from outside.
+For example: lights, tv, computer, printer which is connected to the home local network.
+For VPN, I have forwarded the port on my router to a secondary raspberry pi so that the one with the proxy doesn't get overloaded.
+Installed pivpn into the raspberry pi and created a user using pivpn -a command.
+Creating a user actually creates a .ovpn file in the root inside the ovpn folder.
+It recommended to copy that certificate into a flash drive for security( email, sms are not secure), then import onto the device that you wish to connect from.
+In windows to import this certificate into OpenVpn which you can download for free.
+Once the the certificate is succesfully imported into the device, you are one click away from connecting to your local server at home.
+
+ 
