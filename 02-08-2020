@@ -1,0 +1,12 @@
+I was using Microsoft Remote Desktop Protocol (RDP) to remote into my server at home upto this point from any computer.
+I had to type my public ip address and port number to exactly direct the connection to my home server.
+I found a better and secure solution for this process.
+VNC - Virtual Network Computing.
+Create a free account in RealVNC and choose a free package for educatational purposes
+VNC has a server (VNC server) version and client version (VNC viewer)
+Raspberry Pi usually have a VNC embedded in it, therefore we have to enable it using sudo raspi-config command
+install vnc server on raspberry pi, which is free of cost.
+download vnc application on the client device you wish to remote in from.
+Now, the logic is inorder to connect the client to server both of the devices need to be logged in as same user with same authentication. 
+They connect via cloud in RealVNC not TCP/UDP
+You dont have to port forward anything on your router.
