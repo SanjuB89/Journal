@@ -1,0 +1,4 @@
+Documentation:
+- How to install HAProxy
+- How to configure happroxy.cgf file so that it listens to port 80
+- How to configure it as a load balancer.
