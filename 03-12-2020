@@ -1,0 +1,5 @@
+Documentation:
+How to apply Virtual Network computing to login to the server remotely.
+How to install vnc-server on the servers and vnc-viewer on the client side
+Two methods: - Direct Connection for the LAN
+             -Cloud Connection for LAN and WAN
